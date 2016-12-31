@@ -4,20 +4,20 @@
 //
 
 //
-// by Ben Wen 
+// by Dat Thanh Vu
 // with thanks to the Arduino community, esp. Rick Waldon for Johnny Five,
 // SendGrid for the Uno board, esp. @swiftalphaone for the Waza tutorial.
 //
 
 //
-// Copyright 2013 Benson Wen.  
+// Copyright 2017 Dat Thanh Vu
 //
 
 //
 // MIT licensed
 //
 
-// March 2013
+// 
 
 
 var five = require('johnny-five'),
